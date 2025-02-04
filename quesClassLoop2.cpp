@@ -7,7 +7,7 @@ using std:: cin;
 int main(){
   int num;
   
-  cout<<"Kati samma kocountdown chaiyo ";
+  cout<<" kocountdown ";
   cin>>num;
   while (num>=0)
   {
